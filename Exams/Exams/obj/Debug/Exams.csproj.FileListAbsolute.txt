@@ -1,0 +1,7 @@
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\bin\Debug\Exams.exe.config
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\bin\Debug\Exams.exe
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\bin\Debug\Exams.pdb
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\obj\Debug\Exams.csprojResolveAssemblyReference.cache
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\obj\Debug\Exams.csproj.CoreCompileInputs.cache
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\obj\Debug\Exams.exe
+C:\Code\2018\01.03.2018\Homework\Exams\Exams\obj\Debug\Exams.pdb
